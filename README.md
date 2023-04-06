@@ -45,4 +45,3 @@ The Chatroom uses two encryptions: __RSA__ and __AES__.<br>
 * The server generates an __AES key__, and encrypts it using the client's public key.<br>
 * The encrypted __AES key__ is then sent to the client, which decrypts it using his private key.<br>
 * Now the two sides can talk with each other with __encrypted data__.
-
