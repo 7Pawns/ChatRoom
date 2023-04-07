@@ -4,7 +4,7 @@ This is the first time I am experimenting with sockets, encryption and threading
 # Setup
 * Run the following command to download all dependencies:
 ```console
-python.exe -m pip install requirements.txt
+python.exe -m pip install -r requirements.txt
 ```
 * Run the quickstartup script that launches a server and 2 clients, if you are on one PC:
 ```console
